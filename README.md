@@ -1,5 +1,5 @@
-# hackbox
-## quickly assemble a docker machine
+# python37.lab.ai
+## docker image for AI lab inference
 
 > build and save image
 ````
