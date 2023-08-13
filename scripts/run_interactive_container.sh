@@ -1,5 +1,6 @@
 #!/bin/sh
 sudo docker run \
+    --privileged \
     -it \
     -v ./opt:/root/run \
     -p 1337:1337 \
